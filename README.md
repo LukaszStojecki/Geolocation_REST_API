@@ -34,7 +34,7 @@ POST http://localhost:8080/api/geolocation/addPosition - create new position
 
 
 ## How to use
-$ git clone https://github.com/LukaszStojecki/Geolocation_Rest_Api
+$ git clone https://github.com/LukaszStojecki/Geolocation_Rest_Api.git
 
 $ cd geolocation_rest_api
 
