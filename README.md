@@ -11,6 +11,12 @@
 
 Rest application that allows you to save and receive information about the positions of a device.
 
+## Example users
+
+  | Login    | Password |  Role |
+  | ------   | -------- | ----- |
+  | user123  |  user    | USER  |
+  
 
 ## Technologies Used
 - JDK 11
